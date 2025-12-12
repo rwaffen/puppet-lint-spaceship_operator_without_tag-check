@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 2.7', '< 4'
 
-  spec.add_dependency             'puppet-lint', '>= 1.0', '< 5.0'
+  spec.add_dependency             'puppet-lint', '>= 1.0', '< 6.0'
   spec.add_development_dependency 'rake', '~> 13.0'
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'rspec-collection_matchers', '~> 1.0'
